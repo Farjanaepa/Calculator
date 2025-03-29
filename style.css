@@ -14,7 +14,7 @@ body{
 #calculator{
     font-family: Arial,sans-serif;
     background-color: black;
-    border-radius: 20px;
+    border-radius: 30px;
     max-width: 500px;
     overflow: hidden;
 }
